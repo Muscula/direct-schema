@@ -15,3 +15,6 @@ provided for information only.
 If you do something that requires me to write a better disclaimer, I will be
 very irate.
 
+If you are looking for a production ready JSON-schema validator you can take a
+look at some [benchmarks](https://github.com/Muscula/json-schema-benchmark).
+
